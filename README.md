@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuwanjith-malaka
-- 👀 I’m interested in Django, Django Rest and React.
-- 🌱 I’m currently learning Django, Django Rest and React.
-- 💞️ I’m looking to collaborate on Django, Django Rest and React projects.
+- 👀 I’m interested in Django and Django Rest.
+- 🌱 I’m currently learning Django and Django Rest.
+- 💞️ I’m looking to collaborate on Django and Django Rest projects.
 - 📫 How to reach me : nuwanjithm@gmail.com
 
 <!---
